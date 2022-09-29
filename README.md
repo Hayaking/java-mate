@@ -1,7 +1,7 @@
 # java-mate
 
 # Annotation Processor 
-根据注解信息，编译期修改字节码
+根据注解信息，编译期修改代码
 
 ## @ToString()
 
